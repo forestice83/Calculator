@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="68" started-at="2016-11-05T18:15:40Z" finished-at="2016-11-05T18:15:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="68" started-at="2016-11-05T18:15:40Z" finished-at="2016-11-05T18:15:40Z">
+      <class name="testCalculator.CalculatorSubtruct">
+        <test-method status="PASS" signature="testSubWithNegativeAndPositiveNumbers()[pri:0, instance:testCalculator.CalculatorSubtruct@738d6fb7]" name="testSubWithNegativeAndPositiveNumbers" duration-ms="12" started-at="2016-11-05T14:15:40Z" finished-at="2016-11-05T14:15:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubWithNegativeAndPositiveNumbers -->
+        <test-method status="PASS" signature="testSubWithNegativeNumberandZero()[pri:0, instance:testCalculator.CalculatorSubtruct@738d6fb7]" name="testSubWithNegativeNumberandZero" duration-ms="2" started-at="2016-11-05T14:15:40Z" finished-at="2016-11-05T14:15:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubWithNegativeNumberandZero -->
+        <test-method status="PASS" signature="testSubWithNegtiveNumbers()[pri:0, instance:testCalculator.CalculatorSubtruct@738d6fb7]" name="testSubWithNegtiveNumbers" duration-ms="2" started-at="2016-11-05T14:15:40Z" finished-at="2016-11-05T14:15:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubWithNegtiveNumbers -->
+        <test-method status="PASS" signature="testSubWithPositiveAndNegativeNumbers()[pri:0, instance:testCalculator.CalculatorSubtruct@738d6fb7]" name="testSubWithPositiveAndNegativeNumbers" duration-ms="3" started-at="2016-11-05T14:15:40Z" finished-at="2016-11-05T14:15:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubWithPositiveAndNegativeNumbers -->
+        <test-method status="PASS" signature="testSubWithPositiveNumberAndZero()[pri:0, instance:testCalculator.CalculatorSubtruct@738d6fb7]" name="testSubWithPositiveNumberAndZero" duration-ms="2" started-at="2016-11-05T14:15:40Z" finished-at="2016-11-05T14:15:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubWithPositiveNumberAndZero -->
+        <test-method status="PASS" signature="testSubWithPositiveNumbers()[pri:0, instance:testCalculator.CalculatorSubtruct@738d6fb7]" name="testSubWithPositiveNumbers" duration-ms="2" started-at="2016-11-05T14:15:40Z" finished-at="2016-11-05T14:15:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubWithPositiveNumbers -->
+        <test-method status="PASS" signature="testSubWithZeroAndNegativeNumber()[pri:0, instance:testCalculator.CalculatorSubtruct@738d6fb7]" name="testSubWithZeroAndNegativeNumber" duration-ms="2" started-at="2016-11-05T14:15:40Z" finished-at="2016-11-05T14:15:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubWithZeroAndNegativeNumber -->
+        <test-method status="PASS" signature="testSubWithZeroAndPositiveNumber()[pri:0, instance:testCalculator.CalculatorSubtruct@738d6fb7]" name="testSubWithZeroAndPositiveNumber" duration-ms="2" started-at="2016-11-05T14:15:40Z" finished-at="2016-11-05T14:15:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubWithZeroAndPositiveNumber -->
+      </class> <!-- testCalculator.CalculatorSubtruct -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
